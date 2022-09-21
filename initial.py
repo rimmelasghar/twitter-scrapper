@@ -14,7 +14,7 @@ driver.get("https://twitter.com/login")
 
 ## credentials
 
-cred = open('credentials.txst','rt')
+cred = open('credentials.txt','rt')
 context = cred.read()
 context = context.split('\n')
 

@@ -1,4 +1,5 @@
-# _Twitter Scrapper_ 
+# _Twitter Scrapper_  🤖
+Code By Rimmel with ❤
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -30,13 +31,21 @@ password
 ```
 run initial.py
 ``` bash
-python 
+python initial.py
 ```
+this will create a csv file which contains all the records.
 
+after this you can run final.py to know info about new followers.
+``` bash
+python final.py
+```
+This will create a csv file named "new_followers.csv" which contains all the new_followers that you got and it will also append new followers to the followers.csv.
 ## License
 
 MIT
 
 **Free Software, Hell Yeah!**
 
-![N|Solid](https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png) ![N|Solid3](https://cdn.iconscout.com/icon/free/png-64/twitter-34-83443.png)
+Powered by:
+![N|Solid](https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png)
+

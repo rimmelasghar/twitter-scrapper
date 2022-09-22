@@ -5,9 +5,13 @@ Code By Rimmel with ❤
 
 
 Twitter Scraper to scrape Follower username and Follower user Url.
+Sends Information of Followers on Telegram Channel.
+
 - python3
 - selenium4
 - webdriver Manager
+- Telebot
+- Telethon
 - ✨Magic ✨
 
 

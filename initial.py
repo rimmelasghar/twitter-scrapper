@@ -60,3 +60,4 @@ with open('followers.csv','w',newline="") as file:
     write.writerow(cols)
     write.writerows(followerlst)
     file.close()
+driver.close()

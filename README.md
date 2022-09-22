@@ -1,4 +1,4 @@
-# _Twitter Scrapper with Telegram Bot _ 🤖
+# _Twitter Scrapper with Telegram Bot_ 🤖
 Code By Rimmel with ❤
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)

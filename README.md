@@ -17,6 +17,8 @@ Twitter Scraper to scrape Follower username and Follower user Url.
 - Scrap all your followers usernames and thier urls.
 - Export your followers info in a .CSV file named as followers.
 - when run afterwards it will automatically create new followers file that will contain the required info of the new followers in a separate csv file.
+- sends new Followers info to Telegram Channel.
+- Runs After every 6 hours
 ## Installation
 
 This Scrapper requires [python](https://www.python.org/) v10+ to run.
